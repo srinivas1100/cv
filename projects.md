@@ -10,7 +10,7 @@ Richie is an AI-driven financial companion and investment advisory application d
 - **ChatGPT Integration:** To enhance user experience with AI-driven insights.
 
 **Role:**  
-Led the end-to-end development of the Richie application, including:
+Led the end-to-end development of the Richie application, focusing on:
 
 - Designing and implementing the user interface and experience.
 - Developing backend services and APIs using the MERN stack.
@@ -39,7 +39,7 @@ Guidel is a personal audio guide application that brings art, history, and cultu
 - **Firebase Cloud Storage:** To securely store and manage user-generated content and app resources.
 
 **Role:**  
-Led the developer of Guidel, focusing on:
+Lead developer of Guidel, focusing on:
 
 - Designing and implementing the user interface for intuitive navigation.
 - Integrating AI technologies to deliver personalized audio content.
